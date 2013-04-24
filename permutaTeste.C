@@ -8,7 +8,7 @@
 *
 * Data de Criação: 14/06/2003
 *
-* Descrição Geral:
+* Descrição Geral: ok
 *
 * Entrada:
 *
